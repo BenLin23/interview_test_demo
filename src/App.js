@@ -30,7 +30,7 @@ export default function App() {
     <>
       <div className="container">
         <div className="logo">
-          <div className="logo_title">LOGO</div>
+          <div className="logo_title">High Ball</div>
           <div className="logo_setting">
             <AiOutlineSetting />
           </div>
